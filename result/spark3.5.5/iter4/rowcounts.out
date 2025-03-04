@@ -1,0 +1,53 @@
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Spark Web UI available at http://10.255.255.254:4040
+Spark master: local[*], Application Id: local-1741047808276
+Time taken: 5.389 seconds
+6
+Time taken: 8.398 seconds, Fetched 1 row(s)
+11718
+Time taken: 0.535 seconds, Fetched 1 row(s)
+144067
+Time taken: 0.694 seconds, Fetched 1 row(s)
+1441548
+Time taken: 1.234 seconds, Fetched 1 row(s)
+100000
+Time taken: 0.565 seconds, Fetched 1 row(s)
+50000
+Time taken: 0.453 seconds, Fetched 1 row(s)
+1920800
+Time taken: 1.128 seconds, Fetched 1 row(s)
+73049
+Time taken: 0.441 seconds, Fetched 1 row(s)
+7200
+Time taken: 0.367 seconds, Fetched 1 row(s)
+20
+Time taken: 0.404 seconds, Fetched 1 row(s)
+11745000
+Time taken: 0.878 seconds, Fetched 1 row(s)
+18000
+Time taken: 0.359 seconds, Fetched 1 row(s)
+300
+Time taken: 0.402 seconds, Fetched 1 row(s)
+35
+Time taken: 0.365 seconds, Fetched 1 row(s)
+20
+Time taken: 0.364 seconds, Fetched 1 row(s)
+12
+Time taken: 0.481 seconds, Fetched 1 row(s)
+287514
+Time taken: 0.603 seconds, Fetched 1 row(s)
+2880404
+Time taken: 1.201 seconds, Fetched 1 row(s)
+86400
+Time taken: 0.34 seconds, Fetched 1 row(s)
+5
+Time taken: 0.388 seconds, Fetched 1 row(s)
+60
+Time taken: 0.39 seconds, Fetched 1 row(s)
+71763
+Time taken: 0.375 seconds, Fetched 1 row(s)
+719384
+Time taken: 1.083 seconds, Fetched 1 row(s)
+30
+Time taken: 0.387 seconds, Fetched 1 row(s)
