@@ -1,0 +1,1 @@
+/mnt/c/Users/USER/OneDrive/文件/academic/ucla/winter24/cs214/final_project/spark-tpc-ds-performance-test/bin/runqueries.sh: line 8: $'-XX:InitiatingHeapOccupancyPercent=45\n  --conf spark.driver.extraJavaOptions=-XX:+UseG1GC': command not found
