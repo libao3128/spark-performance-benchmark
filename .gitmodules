@@ -1,0 +1,3 @@
+[submodule "spark-tpc-ds-performance-test"]
+	path = spark-tpc-ds-performance-test
+	url = https://github.com/IBM/spark-tpc-ds-performance-test.git
