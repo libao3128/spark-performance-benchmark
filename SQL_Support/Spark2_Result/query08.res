@@ -1,0 +1,6 @@
+able	-9767751.879999999
+ation	-1.0546549930000007E7
+bar	-1.013367206E7
+ese	-1.03351813E7
+ought	-1.073765956E7
+Time taken: 15.432 seconds, Fetched 5 row(s)
