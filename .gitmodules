@@ -1,6 +1,6 @@
 [submodule "performance/spark-tpc-ds-performance-test"]
 	path = performance/spark-tpc-ds-performance-test
 	url = https://github.com/libao3128/spark-tpc-ds-performance-test.git
-[submodule "submodules/Spark_SQL_Test"]
-	path = submodules/Spark_SQL_Test
+[submodule "SQL_Support/Spark_SQL_Test"]
+	path = SQL_Support/Spark_SQL_Test
 	url = https://github.com/Angela0214/Spark_SQL_Test.git
