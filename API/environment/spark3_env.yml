@@ -1,0 +1,15 @@
+name: spark3_new
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pyspark=3.0.2
+  - py4j=0.10.9
+  - findspark
+  - jupyter
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+    - sparkmeasure
