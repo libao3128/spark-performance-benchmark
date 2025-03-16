@@ -16,7 +16,7 @@ API/
 ```
 
 ## Setup Instructions
-To run the Jupyter notebooks, you need to set up the appropriate conda environment.
+To run the Jupyter notebooks, you need to set up  two separate environments for Spark 2.x and Spark 3.x.
 
 ### 1. Install Conda (if not installed)
 If you don’t have Conda installed, download and install it from [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/).
@@ -25,6 +25,10 @@ If you don’t have Conda installed, download and install it from [Miniconda](ht
 ```bash
 conda env create -f environment/spark2_env.yml
 conda activate spark2_new
+```
+If PySpark is not installed, install it manually:
+```bash
+pip install pyspark==2.4.8
 ```
 Run `Spark2API.ipynb` in Jupyter Notebook:
 ```bash
@@ -36,6 +40,10 @@ Then, open `Spark2API.ipynb` in the Jupyter interface.
 ```bash
 conda env create -f environment/spark3_env.yml
 conda activate spark3_new
+```
+If PySpark is not installed, install it manually:
+```bash
+pip install pyspark==3.0.2
 ```
 Run `Spark3API.ipynb` in Jupyter Notebook:
 ```bash
