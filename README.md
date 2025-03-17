@@ -30,9 +30,5 @@ We provide the following benchmarks:
 
 Each test has its own setup procedure and usage instructions. Please refer to the README file in each subdirectory for detailed information.
 
-
-## Contributing
-We welcome issues and pull requests to contribute to this project. Please make sure to read the [contributing guidelines](CONTRIBUTING.md) before submitting.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
