@@ -1,7 +1,7 @@
 # Spark Performance Benchmark
 
 ## Introduction
-This project aims to evaluate the performance of Apache Spark by running various benchmarks to analyze its performance under different scenarios. Please find our report here: [Report] (https://drive.google.com/file/d/1FDsOTmXqH21DpCBXwq6cjq6xY3FPtKqh/view?usp=sharing)
+This project aims to evaluate the performance of Apache Spark by running various benchmarks to analyze its performance under different scenarios. Please find our report here: [Report](https://drive.google.com/file/d/1FDsOTmXqH21DpCBXwq6cjq6xY3FPtKqh/view?usp=sharing)
 
 ## Installation
 1. Clone this repository:
